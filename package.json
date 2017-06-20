@@ -1,5 +1,5 @@
 {
-  "name": "autogoogle",
+  "name": "google-image-scraper",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
