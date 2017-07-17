@@ -3,7 +3,7 @@
 
 ## Download 
 ```bash
-git clone https://github.com/canmeepo/handlebars-boilerplate.git
+git clone https://github.com/canmeepo/google-image-scraper.git
 ```
 
 ## 1. Setup
